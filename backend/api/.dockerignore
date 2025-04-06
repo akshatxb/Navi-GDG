@@ -1,0 +1,28 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore local environment settings
+*.env
+
+# Ignore database files
+*.sqlite3
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore static and media files (optional, if not using volume mounts)
+staticfiles/
+media/
+
+# Ignore Git and Docker files
+.git/
+.gitignore
+.dockerignore
