@@ -121,13 +121,6 @@ Leverages real-time data on stock levels, pricing trends, market demand, crop yi
 - **GitHub Repository**: [github.com/akshatxb/Navi-GDG](https://github.com/akshatxb/Navi-GDG)
 - **Demo Video**: [YouTube Demo](https://youtu.be/YRu-WpSEfDs)
 
-## Team FutureCoders
-
-- **Team Leader**: Diya Agarwal
-- **Team Member**: Akshat Bhadani
-- **Team Member**: Meethi Saxena
-- **Team Member**: Divyanshi Chaurasia
-
 ## Contributing
 This is an archive repository of our hackathon project submission. While it's not maintained for active development, we appreciate your interest in our solution.
 
