@@ -119,7 +119,6 @@ Leverages real-time data on stock levels, pricing trends, market demand, crop yi
 
 - **Live Project**: [navi.vercel.app](https://navi.vercel.app)
 - **GitHub Repository**: [github.com/akshatxb/Navi-GDG](https://github.com/akshatxb/Navi-GDG)
-- **Demo Video**: [YouTube Demo](https://youtu.be/YRu-WpSEfDs)
 
 ## Contributing
 This is an archive repository of our hackathon project submission. While it's not maintained for active development, we appreciate your interest in our solution.
